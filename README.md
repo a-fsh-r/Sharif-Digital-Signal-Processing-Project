@@ -10,7 +10,7 @@ Helpful source for this course: https://dspfirst.gatech.edu
 
 Q1: Fourier Series Coefficients and Spectrum
 
-Q2: Investigating the phase and magnitude of the Fourier transform of one-dimensional and two-dimensional converted signals
+Q2: Investigating the phase and amplitude of the Fourier transform of one-dimensional and two-dimensional converted signals
 
 Q3: FFT
 
