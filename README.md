@@ -1,7 +1,7 @@
 # SUT DSP Project :
 Digital Signal Processing Final Project. (in Python)
 
-Course Instructor : [Prof. Manzouri](http://sharif.ir/~manzuri/)
+Course Instructor : [Prof. Manzuri](http://sharif.ir/~manzuri/)
 
 Book: Digital Signal Processing: Oppenheim
 
