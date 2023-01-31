@@ -1,4 +1,4 @@
-# SUT DSP Project 2022:
+# SUT DSP Project - Fall 2022:
 Digital Signal Processing Final Project. (in Python)
 
 Course Instructor : [Prof. Manzuri](http://sharif.ir/~manzuri/)
