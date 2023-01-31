@@ -18,4 +18,4 @@ Q4: Upsampling and Downsampling of a .wav file
 
 Q5: Z-Transform
 
-Q6: Channel Equalization + recovered2.wav
+Q6: Channel Equalization -> recovered2.wav
