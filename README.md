@@ -9,6 +9,9 @@ Helpful source for this course: https://dspfirst.gatech.edu
 
 
 Q1: Fourier Series Coefficients and Spectrum
+    spectrogram
+    Chirp
+    Short-time Fourier Series
 
 Q2: Find phase and amplitude of the Fourier transform of one-dimensional and two-dimensional converted signals
 
@@ -18,4 +21,4 @@ Q4: Upsampling and Downsampling of a .wav file
 
 Q5: Z-Transform
 
-Q6: Channel Equalization -> recovered2.wav
+Q6: Cancel unwanted effect of a system on a sound - Channel Equalization -> recovered2.wav
