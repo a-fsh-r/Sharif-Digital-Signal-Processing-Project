@@ -12,6 +12,7 @@ Q1: Fourier Series Coefficients and Spectrum
 
     spectrogram
     Chirp
+    Waterfall diagram
     Short-time Fourier Series
 
 Q2: Find phase and amplitude of the Fourier transform of one-dimensional and two-dimensional converted signals
