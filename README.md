@@ -10,7 +10,7 @@ Helpful source for this course: https://dspfirst.gatech.edu
 
 Q1: Fourier Series Coefficients and Spectrum
 
-    spectrogram
+    Spectrogram
     Chirp
     Waterfall diagram
     Short-time Fourier Series
