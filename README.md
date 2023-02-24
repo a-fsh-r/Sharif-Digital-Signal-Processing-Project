@@ -5,7 +5,7 @@ Course Instructor: [Prof. Manzuri](http://sharif.ir/~manzuri/)
 
 Book: Digital Signal Processing: Oppenheim
 
-Helpful source for this course: https://dspfirst.gatech.edu
+https://dspfirst.gatech.edu
 
 
 Q1: Fourier Series Coefficients and Spectrum
