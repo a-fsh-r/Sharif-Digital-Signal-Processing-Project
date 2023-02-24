@@ -3,7 +3,7 @@ Digital Signal Processing Final Project. (in Python)
 
 Course Instructor: [Prof. Manzuri](http://sharif.ir/~manzuri/)
 
-Book: Digital Signal Processing: Oppenheim
+Digital Signal Processing: Oppenheim
 
 https://dspfirst.gatech.edu
 
